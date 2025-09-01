@@ -59,8 +59,8 @@ If you don't have Node.js installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/contact-form-app.git
-cd contact-form-app
+git clone https://github.com/yourusername/ContactForm.git
+cd ContactForm
 ```
 
 ### 2. Install Dependencies
@@ -175,7 +175,7 @@ Add or modify form fields in `src/components/ContactForm.jsx`.
    git add .
    git commit -m "Initial commit"
    git branch -M main
-   git remote add origin https://github.com/yourusername/your-repo-name.git
+   git remote add origin https://github.com/yourusername/ContactForm.git
    git push -u origin main
    ```
 
