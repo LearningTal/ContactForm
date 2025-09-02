@@ -15,7 +15,10 @@
     "react-dom": "^18.2.0",
     "@heroicons/react": "^2.0.18",
     "framer-motion": "^10.16.4",
-    "react-hook-form": "^7.47.0"
+    "react-hook-form": "^7.47.0",
+    "react-router-dom": "^6.26.1",
+    "react-helmet-async": "^2.0.4",
+    "lucide-react": "^0.400.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
